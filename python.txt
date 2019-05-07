@@ -1,0 +1,11 @@
+import random
+list=[]
+for a in range(100):
+    list.append(a)
+    
+b=[]
+b=list.copy()
+    
+random.shuffle(b)
+for c in range(100):
+  print("arr[",list[c],"]=",b[c],";")
