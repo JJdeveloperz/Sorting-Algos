@@ -1,6 +1,7 @@
 # Sorting-Algos
 Graphical Visualisation of various Sorting Algorithms Using C++.
 Video ==>> https://youtu.be/FWVSPk2_oL8
+Video is flickering because graphics are changing so rapidly and to remove flickering use delay( value )  function but it will slow down the process.
 It is sorting using following algorithms.
 1) Bubble Sort
 2) Merge Sort
