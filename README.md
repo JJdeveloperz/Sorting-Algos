@@ -1,5 +1,6 @@
 # Sorting-Algos
 Graphical Visualisation of various Sorting Algorithms Using C++.
+Video ==>> https://youtu.be/FWVSPk2_oL8
 It is sorting using following algorithms.
 1) Bubble Sort
 2) Merge Sort
@@ -22,3 +23,5 @@ Steps to make it work:-
 
 
 For generating array of numbers , use python code written in python.txt.
+
+
