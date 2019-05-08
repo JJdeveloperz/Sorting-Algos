@@ -1,12 +1,15 @@
 # Sorting-Algos
 Graphical Visualisation of various Sorting Algorithms Using C++.
-It is sorting 400 numbers using
+It is sorting using following algorithms.
 1) Bubble Sort
 2) Merge Sort
 3) Quick Sort
 4) Selection Sort
 5) Insertion Sort
 6) Heap Sort
+
+By default it is sorting 400 numbers.
+For more numbers goto step 3 and 4 below.
 
 
 Steps to make it work:-
