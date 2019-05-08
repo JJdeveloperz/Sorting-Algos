@@ -13,7 +13,8 @@ For more numbers goto step 3 and 4 below.
 
 
 Steps to make it work:-
-1)Load this file in TURBO C++
+
+1) Load this file in TURBO C++
 2) Check Path of BGI.
 3) Select tot which is the number of elements to sort.
 4) In draw() ,set values of line such that they get fit into the window.
